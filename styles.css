@@ -5,9 +5,10 @@
 
 body {
   font-family: 'Weezer', sans-serif;
-  color: #FFFFFF;
   background-color: #189BCC;
-  margin: 0;
-  padding: 0;
   text-align: center;
+}
+
+header {
+  margin: 30 0;
 }
