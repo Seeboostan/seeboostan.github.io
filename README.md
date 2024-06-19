@@ -1,4 +1,2 @@
 # bio
-biography
-bazinga
-bazinga
+biography bazinga bazinga
