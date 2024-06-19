@@ -1,6 +1,8 @@
 @font-face {
   font-family: 'Weezer';
-  src: url('weezerfont.ttf')
+  src: url('weezerfont.ttf');
+  font-weight: normal;
+  font-style: normal;
 }
 
 body {
@@ -11,4 +13,16 @@ body {
 
 header {
   margin: 30 0;
+}
+
+header h1 {
+  color: #FFFFFF;
+}
+
+header p {
+  color: #FFFFFF;
+}
+
+h3 {
+  color: #FFFFFF;
 }
