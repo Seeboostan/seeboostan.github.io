@@ -7,5 +7,7 @@ body {
   font-family: Weezer;
   color: #FFFFFF;
   background-color: #189BCC;
+  margin: 0;
+  padding: 0;
   text-align: center;
 }
