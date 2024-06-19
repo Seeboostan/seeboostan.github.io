@@ -7,7 +7,10 @@
 
 body {
   font-family: 'Weezer';
+  color: #FFFFFF;
   background-color: #189BCC;
+  margin: 0;
+  padding: 0;
   text-align: center;
 }
 
@@ -26,7 +29,10 @@ header p {
 }
 
 main {
-    text-align: center;
+  padding: 40px;
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
 }
 
 h3 {
