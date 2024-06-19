@@ -2,3 +2,10 @@
   font-family: Weezer;
   src: url('weezerfont.ttf')
 }
+
+body {
+  font-family: Weezer;
+  color: #FFFFFF;
+  background-color: #189BCC;
+  text-align: center;
+}
