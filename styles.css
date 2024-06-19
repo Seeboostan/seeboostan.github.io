@@ -1,10 +1,10 @@
 @font-face {
-  font-family: Weezer;
+  font-family: 'Weezer';
   src: url('weezerfont.ttf')
 }
 
 body {
-  font-family: Weezer, sans-serif;
+  font-family: 'Weezer', sans-serif;
   color: #FFFFFF;
   background-color: #189BCC;
   margin: 0;
