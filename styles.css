@@ -9,8 +9,6 @@ body {
   font-family: 'Weezer', sans-serif;
   color: #FFFFFF;
   background-color: #189BCC;
-  margin: 0;
-  padding: 0;
   text-align: center;
 }
 
@@ -24,8 +22,6 @@ p, h3, h1 {
 
 main {
   padding: 30px;
-  max-width: 600px;
-  margin: 0 auto;
   text-align: center;
 }
 
