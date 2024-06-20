@@ -27,3 +27,7 @@ main {
 main section {
   margin-botton: 30px;
 }
+
+* {
+  text-align: center;
+}
