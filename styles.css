@@ -8,14 +8,14 @@
 body {
   font-family: 'Weezer', sans-serif;
   color: #FFFFFF;
-  background-color: #0099CC;
+  background-color: #189BCC;
   margin: 0;
   padding: 0;
   text-align: center;
 }
 
 header {
-  margin: 45px 0;
+  margin: 20px 0;
 }
 
 p, h3, h1 {
