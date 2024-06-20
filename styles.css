@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Weezer';
-  src: url('weezerfont.ttf') format('truetype');
+  src: url('weezerfont.ttf');
 }
 
 body {
@@ -19,7 +19,6 @@ p, h3, h1 {
 main {
   padding: 20px;
   max-width: 700px;
-  margin: 0 auto;
 }
 
 main section {
